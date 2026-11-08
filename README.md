@@ -30,8 +30,10 @@ javac -d out src\Course.java src\CourseManager.java test\CourseManagerTest.java
 java -cp out CourseManagerTest
 ```
 
-## Screenshot for submission
+## Submission files
 
-Run the application, add a few courses, and display them with **2. View All
-Courses**. Capture the terminal window using **Win + Shift + S** and save the
-image in this folder for submission.
+- `REPORT.pdf` — a two-page report with a sample program session.
+- `program-screenshot.png` — a terminal-style image of the sample session. For
+  an actual screenshot from your own computer, run the app, display the courses,
+  then capture the terminal with **Win + Shift + S**.
+- `src\` and `test\` — Java source code and the standalone test program.
